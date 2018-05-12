@@ -1,0 +1,30 @@
+_repo: L-h-tellerie-sanglante_36086
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mahalin, Paul
+    aliases:
+    - Blondet, Emile
+    - Blondet, Émile
+    birthdate: 1838
+    deathdate: 1899
+    gutenberg_agent_id: '38074'
+    url: http://www.gutenberg.org/2009/agents/38074
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36086'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+title: L'hôtellerie sanglante
+url: http://www.gutenberg.org/ebooks/36086
